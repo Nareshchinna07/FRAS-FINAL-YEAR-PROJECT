@@ -88,11 +88,11 @@ MIT Licensed - Requires activation key for full functionality
 
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&width=500&lines=Naresh+%7C+AI+Engineer;FRAS+Project+Lead;Computer+Vision+Specialist" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&width=500&lines=Naresh+%7C;FRAS+Project+Lead;" alt="Typing Animation">
 </p>
 
 <!-- Profile Picture Frame -->
-<img src="[https://img.icons8.com/3d-fluency/94/user-male-circle.png](https://github.com/Nareshchinna07/FRAS-FINAL-YEAR-PROJECT/blob/main/Acc_passportsize.jpg)" width="100">
+<img src="https://github.com/Nareshchinna07/FRAS-FINAL-YEAR-PROJECT/blob/main/Acc_passportsize.jpg" width="100">
 
 ### **Naresh**  
 `B.Tech Artificial Intelligence & Machine Learning`  
@@ -109,8 +109,8 @@ MIT Licensed - Requires activation key for full functionality
 <!-- Contact -->
 <h3>📫 Connect With Me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:your.email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=flat&logo=react)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/naresh-dakarapu/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:nareshnaidudakarapu1432@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=flat&logo=react)](https://nareshchinna07.github.io/Naresh-s-portfolio/)
 
 </div>
