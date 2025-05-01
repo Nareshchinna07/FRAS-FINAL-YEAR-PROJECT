@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fa82de4-1eb4-4706-8af1-0fd0d5afa4cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-02_23_24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-03_21_24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attendance/Attendance-09_14_23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/face_recognition_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/static/face_recognition_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/Naresh_07/Naresh_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vamsi_65/vamsi_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/faces/vijjulu_20/vijjulu_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VNBETur6f5mCaC357JKdmslsbM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nares/OneDrive/Desktop/python&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="FRS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face-recognition-based-attendance-system-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="FRS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="FRS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="FRS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa82de4-1eb4-4706-8af1-0fd0d5afa4cd" name="Changes" comment="" />
+      <created>1694666546724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694666546724</updated>
+    </task>
+    <servers />
+  </component>
+</project>
